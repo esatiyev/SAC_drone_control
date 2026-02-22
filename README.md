@@ -8,7 +8,7 @@ This repo intentionally contains only 3 files:
 - `train_sac_position.py` — SAC training script (SB3)
 - `play.py` — playback script to visualize a trained policy
 
-✅ **Important:** This project depends on a **modified fork** (by me) of `gym-pybullet-drones` (controller + enums + action type changes).  
+✅ **Important:** This project depends on a **modified fork** (by me) of [`gym-pybullet-drones`](https://github.com/esatiyev/gym-pybullet-drones) (controller + enums + action type changes).  
 You must install that fork first, then run this project.
 
 ---
