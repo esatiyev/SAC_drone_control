@@ -19,7 +19,7 @@ from stable_baselines3.common.env_util import make_vec_env
 from stable_baselines3.common.callbacks import EvalCallback, CheckpointCallback
 from stable_baselines3.common.monitor import Monitor
 
-from gym_pybullet_drones.envs.PositionControlAviary import PositionControlAviary
+from PositionControlAviary import PositionControlAviary
 from gym_pybullet_drones.utils.utils import  str2bool
 from gym_pybullet_drones.utils.enums import ObservationType, ActionType
 
