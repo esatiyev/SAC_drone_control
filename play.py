@@ -6,7 +6,7 @@ import pybullet as p
 
 from stable_baselines3 import SAC
 
-from gym_pybullet_drones.envs.PositionControlAviary import PositionControlAviary
+from PositionControlAviary import PositionControlAviary
 from gym_pybullet_drones.utils.enums import ObservationType, ActionType
 from gym_pybullet_drones.utils.utils import sync, str2bool
 
