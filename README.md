@@ -12,6 +12,13 @@ This repo intentionally contains only 3 files:
 You must install that fork first, then run this project.
 
 ---
+Demo: 
+<!-- ![demo](https://github.com/user-attachments/assets/8ef3dd0c-ed58-4fc0-98e7-b9ee6303443d) -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ef3dd0c-ed58-4fc0-98e7-b9ee6303443d" width="600"/>
+</p>
+
+---
 
 ## What this project does
 
