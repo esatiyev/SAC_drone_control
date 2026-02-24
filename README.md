@@ -2,6 +2,11 @@
 
 A project that trains and tests a **Soft Actor-Critic (SAC)** policy for **quadcopter control** in **PyBullet**.
 
+<!-- ![demo](https://github.com/user-attachments/assets/8ef3dd0c-ed58-4fc0-98e7-b9ee6303443d) -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ef3dd0c-ed58-4fc0-98e7-b9ee6303443d" width="600"/>
+</p>
+
 This repo intentionally contains only 3 files:
 
 - `PositionControlAviary.py` — custom Gymnasium environment (obs + reward + termination/truncation + target sampling)
@@ -10,13 +15,6 @@ This repo intentionally contains only 3 files:
 
 ✅ **Important:** This project depends on a **modified fork** (by me) of [`gym-pybullet-drones`](https://github.com/esatiyev/gym-pybullet-drones) (controller + enums + action type changes).  
 You must install that fork first, then run this project.
-
----
-Demo: 
-<!-- ![demo](https://github.com/user-attachments/assets/8ef3dd0c-ed58-4fc0-98e7-b9ee6303443d) -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8ef3dd0c-ed58-4fc0-98e7-b9ee6303443d" width="600"/>
-</p>
 
 ---
 
